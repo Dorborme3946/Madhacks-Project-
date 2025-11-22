@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/fnupriyanka/Desktop/GitHub/Madhacks-Project-/venv/bin/python3
+=======
+#!/Users/mitchdorbor/Documents/GitHub/Madhacks-Project-/venv/bin/python
+>>>>>>> 4661d23c7dc5ddd410e432b2fcc581942c49ba26
 # -*- coding: utf-8 -*-
 import re
 import sys
